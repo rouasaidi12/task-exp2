@@ -1,0 +1,10 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+}
